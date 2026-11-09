@@ -1,0 +1,17 @@
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\bin\Debug\net9.0\Ejercicio2.exe
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\bin\Debug\net9.0\Ejercicio2.deps.json
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\bin\Debug\net9.0\Ejercicio2.runtimeconfig.json
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\bin\Debug\net9.0\Ejercicio2.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\bin\Debug\net9.0\Ejercicio2.pdb
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.AssemblyReference.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfoInputs.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfo.cs
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.Up2Date
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\refint\Ejercicio2.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.pdb
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\Ejercicio2.genruntimeconfig.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio2\obj\Debug\net9.0\ref\Ejercicio2.dll

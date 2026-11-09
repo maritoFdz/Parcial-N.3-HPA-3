@@ -1,0 +1,14 @@
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\bin\Debug\net9.0\Ejercicio1.exe
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\bin\Debug\net9.0\Ejercicio1.deps.json
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\bin\Debug\net9.0\Ejercicio1.runtimeconfig.json
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\bin\Debug\net9.0\Ejercicio1.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\bin\Debug\net9.0\Ejercicio1.pdb
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\Ejercicio1.AssemblyInfo.cs
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\Ejercicio1.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\refint\Ejercicio1.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\Ejercicio1.pdb
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\Ejercicio1.genruntimeconfig.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Parcial N. 3\Ejercicio1\obj\Debug\net9.0\ref\Ejercicio1.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\parcial n. 3\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\parcial n. 3\\ejercicio1\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|solutionrelative:cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\parcial n. 3\\ejercicio1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\parcial n. 3\\ejercicio1\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\parcial n. 3\\ejercicio1\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE04A8F-318F-439D-B5EB-2836807F46F9}|Ejercicio1.csproj|solutionrelative:figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:06:50.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Cuadrado.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Cuadrado.cs",
+              "RelativeToolTip": "Cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:06:38.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Rectangulo.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Rectangulo.cs",
+              "RelativeToolTip": "Rectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:06:27.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:03:10.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Figura.cs",
+              "RelativeDocumentMoniker": "Figura.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Parcial N. 3\\Ejercicio1\\Figura.cs",
+              "RelativeToolTip": "Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:04:56.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
